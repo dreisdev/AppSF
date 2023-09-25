@@ -1,2 +1,2 @@
-# AppSkyFinance
-SkyFinance Project
+# AppSF
+SF Project
